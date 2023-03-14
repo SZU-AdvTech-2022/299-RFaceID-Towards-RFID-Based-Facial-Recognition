@@ -1,0 +1,8 @@
+@article{REPO-300,
+    author = "Luo, Chengwen and Yang, Zhongru and Feng, Xingyu and Zhang, Jin and Jia, Hong and Li, Jianqiang and Wu, Jiawei and Hu, Wen",
+    journal = "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+    number = "4",
+    title = "{RFaceID: Towards RFID-Based Facial Recognition}",
+    volume = "5",
+    year = "2022"
+}
